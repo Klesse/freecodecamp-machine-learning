@@ -59,7 +59,8 @@ In **fcc_sms_text_classification.ipynb**.
 
 ## Certification
 
-![image](https://github.com/Klesse/freecodecamp-machine-learning/assets/62315031/f133ef5a-09de-43dc-bd9e-373aa7fe8d79)
+![image](https://github.com/Klesse/freecodecamp-machine-learning/assets/62315031/6fa94b85-4765-4e8c-b7dc-0dac7e7ad521)
+
 
 ## Author
 
